@@ -1,11 +1,22 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <img
+    style="width: 8rem; height: auto"
+    src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"
+  />
 </p>
+<h1 align="center">
+  Hi, I'm Héctor<img
+    width="30px"
+    src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
+  />
+</h1>
+<h2 font-size="40" align="center">
+  A passionate fullstack web developer from Colombia. I like technology and
+  microelectronics how time passes.
+</h2>
 
-<h1 align="center">Hi, I'm Héctor<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate fullstack web developer from Colombia. I like technology and microelectronics how time passes.</h3>
 <div>
-  <h2 style="font-weight: bold">👨‍💻 About Me :</h2>
+  <h3 style="font-weight: bold">👨‍💻 About Me :</h3>
   <div>
     <h3>I'm currently learning</h3>
     <ul>
@@ -16,13 +27,16 @@
   <div>
     <h3>😍 What i like to do:</h3>
     <ul>
-        <li>I like to be in constant learning and everything related to technology and microelectronics, besides doing sports.</li>
+      <li>
+        I like to be in constant learning and everything related to technology
+        and microelectronics, besides doing sports.
+      </li>
     </ul>
   </div>
   <div>
     <h3>📲 Contact Information</h3>
     <ul>
-        <li>📫 How to reach me hectorg.devp@gmail.com </li>
+      <li>📫 How to reach me hectorg.devp@gmail.com</li>
     </ul>
   </div>
 </div>
@@ -40,7 +54,7 @@
       height="40"
     />
   </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
@@ -48,7 +62,7 @@
       height="40"
     />
   </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -92,7 +106,7 @@
       height="40"
     />
   </a>
-   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
       alt="matlab"
@@ -173,3 +187,30 @@
     />
   </a>
 </p>
+<hr>
+<div >
+  <h3 align="left">📊 My Statf:</h3>
+        <p>
+    <img
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=camiloduquee&"
+      alt="camiloduquee"
+    />
+  </p>
+  <p>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=camiloduquee&show_icons=true&locale=en"
+      alt="camiloduquee"
+    />
+  </p>
+</div>
+<div>
+  <p>
+    <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=camiloduquee&show_icons=true&locale=en&layout=compact"
+      alt="camiloduquee"
+    />
+  </p>
+</div>
