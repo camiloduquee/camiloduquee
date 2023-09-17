@@ -18,10 +18,9 @@
 <div>
   <h3 style="font-weight: bold">👨‍💻 About Me :</h3>
   <div>
-    <h3>I'm currently learning</h3>
+    <h3>📚I'm currently learning</h3>
     <ul>
-      <li>🌱 python</li>
-      <li>🌱 MongoDB</li>
+      <li>🌱 python and MongoDB</li>
     </ul>
   </div>
   <div>
@@ -189,7 +188,7 @@
 </p>
 <hr>
 <div >
-  <h3 align="left">📊 My Statf:</h3>
+  <h3 align="left">📊My GitHub Stats and Activity:</h3>
         <p>
     <img
       align="center"
