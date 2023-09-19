@@ -11,8 +11,7 @@
   />
 </h1>
 <h2 font-size="40" align="center">
-  A passionate fullstack web developer from Colombia. I like technology and
-  microelectronics how time passes.
+  I am a passionate fullstack web developer based in Colombia. I like technology and microelectronics as a time pass.
 </h2>
 
 <div>
