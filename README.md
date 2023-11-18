@@ -35,6 +35,8 @@
     <h3>📲 Contact Information</h3>
     <ul>
       <li>📫 How to reach me hectorg.devp@gmail.com</li>
+      <li>💎 my portfolio<a href="https://hectorg.vercel.app" target="_blank"
+    rel="noreferrer">hectorg.vercel.app</a></li>
     </ul>
   </div>
 </div>
