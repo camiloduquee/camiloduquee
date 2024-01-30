@@ -25,27 +25,22 @@
   </div>
   <div>
     <h3>😍 What i like to do:</h3>
-    <p> I like to be in constant learning and everything related to technology
+    <p align="left"> I like to be in constant learning and everything related to technology
         and microelectronics, besides doing sports.
     </p>
-     
-         
-  </div>
-  <div>
-    <h3>📲 Contact Information</h3>
-    <ul>
-      <li>📫 How to reach me hectorg.devp@gmail.com</li>
-      <li>💎 My portfolio <a href="https://hectorg.vercel.app" target="_blank"
-    rel="noreferrer">hectorg.vercel.app</a></li>
-    </ul>
   </div>
 </div>
 <h3 align="left">🔨 Languages and Tools:</h3>
-<p align="left">
- 
-</p>
+<ul>
+  <li>Languages: JavaScript y TypeScript</li>
+  <li>Frameworks Frontend: Ract and Next.js </li>
+  <li>Frameworks Backend: Node.js and Espress </li>
+  <li>DataBases: Sequelize (ORM), PostgreSQL and MongoDB</li>
+  <li>Graphic Design: Figma, Adobe Illustrator and Adobe Photoshop</li>
+  <li>others: MatLab</li>
+</ul>
 <hr>
-<div >
+<div>
   <h3 align="left">📊My GitHub Stats and Activity:</h3>
         <p>
     <img
