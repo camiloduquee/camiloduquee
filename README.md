@@ -44,7 +44,8 @@
   <div>
     <h3>📲 Contact Information</h3>
     <ul>
-      <li>📫 How to reach me hectorg.devp@gmail.com</li>
+      <li>📥 LinkedIn: <a href="https://www.linkedin.com/in/héctor-gómez-0a1075287" target="_blank" rel="noreferrer">Héctor Gómez</a></li>
+      <li>📫 How to reach me <a className="underline" href="mailto:hectorg.devp@gmail.com">hectorg.devp@gmail.com</a></li>
       <li>💎 My portfolio <a href="https://hectorg.vercel.app" target="_blank"
     rel="noreferrer">hectorg.vercel.app</a></li>
     </ul>
