@@ -25,12 +25,11 @@
   </div>
   <div>
     <h3>😍 What i like to do:</h3>
-    <ul>
-      <li>
-        I like to be in constant learning and everything related to technology
+    <p> I like to be in constant learning and everything related to technology
         and microelectronics, besides doing sports.
-      </li>
-    </ul>
+    </p>
+     
+         
   </div>
   <div>
     <h3>📲 Contact Information</h3>
