@@ -34,7 +34,7 @@
   <h3 align="left">🔨 Languages and Tools:</h3>
 <ul>
   <li>Languages: JavaScript y TypeScript</li>
-  <li>Frameworks Frontend: Ract and Next.js </li>
+  <li>Frameworks Frontend: React, Next.js, Redux and Zustand </li>
   <li>Frameworks Backend: Node.js and Espress </li>
   <li>DataBases: Sequelize (ORM), PostgreSQL and MongoDB</li>
   <li>Graphic Design: Figma, Adobe Illustrator and Adobe Photoshop</li>
