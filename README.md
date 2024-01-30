@@ -30,7 +30,8 @@
     </p>
   </div>
 </div>
-<h3 align="left">🔨 Languages and Tools:</h3>
+<div>
+  <h3 align="left">🔨 Languages and Tools:</h3>
 <ul>
   <li>Languages: JavaScript y TypeScript</li>
   <li>Frameworks Frontend: Ract and Next.js </li>
@@ -39,6 +40,15 @@
   <li>Graphic Design: Figma, Adobe Illustrator and Adobe Photoshop</li>
   <li>others: MatLab</li>
 </ul>
+</div>
+  <div>
+    <h3>📲 Contact Information</h3>
+    <ul>
+      <li>📫 How to reach me hectorg.devp@gmail.com</li>
+      <li>💎 My portfolio <a href="https://hectorg.vercel.app" target="_blank"
+    rel="noreferrer">hectorg.vercel.app</a></li>
+    </ul>
+  </div>
 <hr>
 <div>
   <h3 align="left">📊My GitHub Stats and Activity:</h3>
