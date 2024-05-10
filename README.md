@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    style="width: auto; height: 600px"
+    style="width: auto; height: 500px"
     src="https://github.com/camiloduquee/camiloduquee/blob/main/Background-GitHub.png"
   />
 </p>
