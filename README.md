@@ -1,7 +1,7 @@
 <p align="center">
   <img
     style="width: auto; height: auto"
-    src="https://github.com/camiloduquee/camiloduquee/blob/main/Background-GitHub.png"
+    src="https://github.com/camiloduquee/camiloduquee/blob/main/Background-linkedin.png"
   />
 </p>
 <h1 align="center">
